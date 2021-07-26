@@ -21,6 +21,7 @@ public class practice {
                 System.out.println ("year "+year+"- growth 2 cm");
                 System.out.println ("tree size: "+size);
             }
+
         }
         }
 
